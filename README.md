@@ -20,9 +20,6 @@ Welcome to Vexa - a project management app designed to help you manage your proj
 - NodeJs
 - Express Js
 - Mongo Db
-- Styled Components
-- Material-UI
-- Nodemailer
 
 Installation
 
