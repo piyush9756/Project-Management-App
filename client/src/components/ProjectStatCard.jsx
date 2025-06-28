@@ -113,7 +113,7 @@ const ProjectStatCard = () => {
   return (
     <Container>
       <Title>Project Card</Title>
-      <Desc>Lorem ipsum dolor sit amet consectetur adipisicing eli jbj</Desc>
+      <Desc>Project based on MERN stack</Desc>
       <Tags>
         <Tag tagColor="#FFC107">React</Tag>
         <Tag tagColor="#FFC107">Tag 2</Tag>
